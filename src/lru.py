@@ -19,6 +19,7 @@ def lru(k, m, requests) -> int:
         # if the cache isnt full, add the item to the cache
         if len(cache) < k:
             cache[r] = i
+            continue
 
         # if the cache is full, find the item that 
         # where its been the longest since use and remove it from the cache
