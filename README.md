@@ -36,4 +36,4 @@ OPTFF : 10
 
 ### Written Component
 
-The written component for this assignment can be found in COP4533-2.pdf.
+The written component for this assignment can be found in [COP4533-2.pdf](./COP4533-2.pdf).

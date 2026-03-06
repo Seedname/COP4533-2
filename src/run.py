@@ -6,7 +6,7 @@ from parse import read_input, write_output
 
 if __name__ == "__main__":
     # specify file name here
-    file_name = "file4"
+    file_name = "file2"
 
     # read the input
     k, m, requests = read_input(file_name)
